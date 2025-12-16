@@ -15,4 +15,7 @@ typedef
 	unsigned short int age;
 	float height;
 	float weight;
+	
+	
+return 0;
 }
